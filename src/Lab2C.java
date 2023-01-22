@@ -1,3 +1,11 @@
+/*
+Class:1321
+Section: 51
+Term: Spring '23
+Instructor: Surya
+Name: Nick Pettit
+Lab#: J06
+ */
 import java.util.Scanner;
 public class Lab2C {
     public static void main(String[] args){
