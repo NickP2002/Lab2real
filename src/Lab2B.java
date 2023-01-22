@@ -1,3 +1,11 @@
+/*
+Class:1321
+Section: 51
+Term: Spring '23
+Instructor: Surya
+Name: Nick Pettit
+Lab#: J06
+ */
 public class Lab2B {
     public static void main(String[] args){
         System.out.println("___*___");
